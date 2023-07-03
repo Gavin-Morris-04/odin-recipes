@@ -1,0 +1,7 @@
+body { 
+    background-color: linear-gradient(rgb(180, 175, 175),rgb(91, 91, 209));
+}
+h1,
+a {
+    font-family: sans-serif;
+}

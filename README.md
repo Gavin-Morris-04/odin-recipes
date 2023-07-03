@@ -1,1 +1,2 @@
 # odin-recipes
+This my First "Odin Project" project and I am excited to test my skills. I am using the skills I have learned from the previous lessons that include my new Git skills and terminal skills.
